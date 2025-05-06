@@ -228,10 +228,10 @@ footer .social-links a:hover {
 
 @media(max-width:400px){
   .mb-5 {
-    font-size: 12px;
+    font-size: 10px;
   }
   .email-link{
-    font-size:12px;
+    font-size:10px;
 }
 
 
